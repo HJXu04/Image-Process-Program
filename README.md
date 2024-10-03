@@ -33,16 +33,16 @@ pip install pillow matplotlib matplotlib-scalebar
 **Exit:** Click the "Quit" button in the main window or sub-windows to exit the program.
 
 <img src="https://github.com/user-attachments/assets/bf0283ed-0ab5-4249-80c3-1f947ba07ebf" alt="image" width="300" />
-
-  
+<br>
+<br>
 **Add Label and Scalebar:**
 Select a folder containing images and a sample image for scalebar detection.
 Configure label size, position, scale, unit, and color.
 Click "OK" to process and save all images with added labels and scalebars.
 
 <img src="https://github.com/user-attachments/assets/92e4556b-e013-4397-a734-d79695bb98e1" alt="image" width="600" />
-
-  
+<br>
+<br>
 **Notes:**
 1. The selected folder should contain the images of the label and scalebar to be added.
 2. Sample images should contain scale information and the scale color cannot be the same as the image color. The default scale color of the program is white, which can be changed as needed.
@@ -51,8 +51,8 @@ Click "OK" to process and save all images with added labels and scalebars.
 5. If you only need the scale and not the values, check the corresponding box.
 
 **For questions about scale bar, see: https://pypi.org/project/matplotlib-scalebar**
-
-  
+<br>
+<br>
 **Image Arrangement:**
 Load images from a folder and select images to arrange.
 Input the number of rows and columns for the grid.
