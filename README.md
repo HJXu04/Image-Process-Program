@@ -31,7 +31,7 @@ pip install pillow matplotlib matplotlib-scalebar
 **Format:** Opens a sub-window to arrange images into a grid format.
 
 **Exit:** Click the "Quit" button in the main window or sub-windows to exit the program.
-![image](https://github.com/user-attachments/assets/e850c5ff-ef31-4b84-9cf9-57ad829d5d37)
+![image style="zoom:33%;"](https://github.com/user-attachments/assets/e850c5ff-ef31-4b84-9cf9-57ad829d5d37)
 
 **Add Label and Scalebar:**
 Select a folder containing images and a sample image for scalebar detection.
