@@ -34,6 +34,7 @@ pip install pillow matplotlib matplotlib-scalebar
 
 <img src="https://github.com/user-attachments/assets/bf0283ed-0ab5-4249-80c3-1f947ba07ebf" alt="image" width="300" />
 
+
 **Add Label and Scalebar:**
 Select a folder containing images and a sample image for scalebar detection.
 Configure label size, position, scale, unit, and color.
@@ -47,7 +48,9 @@ Click "OK" to process and save all images with added labels and scalebars.
 3. The position of the label can be adjusted in pixels.
 4. The transparency and color of the scalebar background box can be adjusted.
 5. If you only need the scale and not the values, check the corresponding box.
+
 **For questions about scale bar, see: https://pypi.org/project/matplotlib-scalebar**
+
 
 **Image Arrangement:**
 Load images from a folder and select images to arrange.
