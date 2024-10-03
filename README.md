@@ -31,13 +31,13 @@ pip install pillow matplotlib matplotlib-scalebar
 **Format:** Opens a sub-window to arrange images into a grid format.
 
 **Exit:** Click the "Quit" button in the main window or sub-windows to exit the program.
-<img src="https://github.com/user-attachments/assets/bf0283ed-0ab5-4249-80c3-1f947ba07ebf" alt="image" style="zoom: 33%;"/>
+<img src="https://github.com/user-attachments/assets/bf0283ed-0ab5-4249-80c3-1f947ba07ebf" alt="image" width="400" height="300"/>
 
 **Add Label and Scalebar:**
 Select a folder containing images and a sample image for scalebar detection.
 Configure label size, position, scale, unit, and color.
 Click "OK" to process and save all images with added labels and scalebars.
-<img src="https://github.com/user-attachments/assets/92e4556b-e013-4397-a734-d79695bb98e1" alt="image" style="zoom: 33%;"/>
+<img src="https://github.com/user-attachments/assets/92e4556b-e013-4397-a734-d79695bb98e1" alt="image" width="400" height="300"/>
 **Notes:**
 1. The selected folder should contain the images of the label and scalebar to be added.
 2. Sample images should contain scale information and the scale color cannot be the same as the image color. The default scale color of the program is white, which can be changed as needed.
@@ -51,7 +51,7 @@ Load images from a folder and select images to arrange.
 Input the number of rows and columns for the grid.
 Optionally, designate an image to be enlarged and specify its grid coordinates.
 Preview and save the arranged images.
-<img src="https://github.com/user-attachments/assets/d7de3946-493f-426c-bae4-3adbcb2cb058" alt="image" style="zoom: 33%;"/>
+<img src="https://github.com/user-attachments/assets/d7de3946-493f-426c-bae4-3adbcb2cb058" alt="image" width="400" height="300"/>
 **Notes:**
 1. You need to select an image file and set it to enlarged image.
 2. The input (a,b),(c,d) coordinates indicate the area occupied by the enlarged image in the image matrix, separated by “,”.
