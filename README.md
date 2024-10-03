@@ -27,16 +27,19 @@ Launch the Program: Run the Image Process Program.py to open the main GUI.
 Main Menu Options:
 
 Add Label: Opens a sub-window to select images, add scalebars, and labels.
+
 Format: Opens a sub-window to arrange images into a grid format.
+
 Add Label and Scalebar:
 
 Select a folder containing images and a sample image for scalebar detection.
 Configure label size, position, scale, unit, and color.
 Click "OK" to process and save all images with added labels and scalebars.
-Image Arrangement:
 
+Image Arrangement:
 Load images from a folder and select images to arrange.
 Input the number of rows and columns for the grid.
 Optionally, designate an image to be enlarged and specify its grid coordinates.
 Preview and save the arranged images.
+
 Exit: Click the "Quit" button in the main window or sub-windows to exit the program.
