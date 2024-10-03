@@ -19,6 +19,7 @@ This application provides a graphical user interface (GUI) for processing images
 Install the required libraries with:
 ```bash
 pip install pillow matplotlib matplotlib-scalebar
+```
 
 ## How to Use
 Launch the Program: Run the Image Process Program.py to open the main GUI.
